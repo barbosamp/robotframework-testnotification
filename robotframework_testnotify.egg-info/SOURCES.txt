@@ -1,0 +1,7 @@
+setup.py
+TestNotification/__init__.py
+robotframework_testnotify.egg-info/PKG-INFO
+robotframework_testnotify.egg-info/SOURCES.txt
+robotframework_testnotify.egg-info/dependency_links.txt
+robotframework_testnotify.egg-info/requires.txt
+robotframework_testnotify.egg-info/top_level.txt
