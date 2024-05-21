@@ -6,8 +6,8 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name="robotframework-googlenotify",
-    version="1.0.0",
+    name="robotframework-testnotify",
+    version="1.1.0",
     description="Send notifications to chat using Robot Framework.",
     long_description=README,
     long_description_content_type="text/markdown",
